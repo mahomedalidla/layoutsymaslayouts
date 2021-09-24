@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable-v24/esquinas.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/blurr.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/esquinas2.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/esquinascardcolorborde.xml" value="0.2675925925925926" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/esquinascardstarjetas.xml" value="0.2675925925925926" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/fotos.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/imagen.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/drawable/reload.xml" value="0.2675925925925926" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main.xml" value="0.3881019830028329" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main4.xml" value="0.264" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main5.xml" value="0.264" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main6.xml" value="0.264" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main7.xml" value="0.12653948321661435" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main8.xml" value="0.264" />
+        <entry key="..\:/Users/bryan/Desktop/ProyectosMoviles/LADM_U1_PRACTICA1_Layoutsymaslayouts/app/src/main/res/layout/activity_main9.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Layouts y mas layouts</string>
+    <array name="opcionesmenu">
+        <item>Login</item>
+        <item>LOGIN 4 DIGITOS CON TECLADO NUMÉRICO</item>
+        <item>CRONOMETRO</item>
+        <item>SOLAR</item>
+        <item>MENU DE TARJETAS 1</item>
+        <item>MENU DE TARJETAS 2</item>
+        <item>APLICACIÓN TURÍSTICA 1</item>
+        <item>APLICACIÓN TURÍSTICA 2</item>
+        <item>Acerca de...</item>
+        <item>Salir</item>
+    </array>
+
+    <style name="Button">#fff</style>
+
+    <style name="card">
+
+        <item name="android:layout_width">15dp</item>
+        <item name="android:paddingBottom">40dp</item>
+        <item name="android:paddingTop">40dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+
+</resources>

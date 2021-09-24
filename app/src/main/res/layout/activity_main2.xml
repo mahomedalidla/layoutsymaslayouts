@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity2">
+
+    <TableRow android:orientation="vertical">
+
+        
+        <ImageView
+
+            android:src="@drawable/avatar"
+            android:layout_weight="45"
+            android:layout_height="150dp"/>
+
+    </TableRow>
+
+
+    <TableRow android:orientation="vertical">
+
+        <TextView android:text="Mahomealid Lopez"
+            android:textSize="25sp"
+            android:layout_weight="45"
+            android:layout_height="35dp"
+            android:textAlignment="center"
+            android:textColor="@color/grey"
+            android:layout_marginBottom="5dp"
+
+            />
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView android:text="3113001707"
+            android:textSize="25sp"
+            android:layout_weight="45"
+            android:layout_height="35dp"
+            android:textAlignment="center"
+            android:textColor="@color/grey"
+            />
+
+    </TableRow>
+
+    <TableRow>
+
+        <ImageView
+            android:src="@drawable/circlepass"
+            android:layout_height="35dp"
+            android:layout_weight="45"
+            android:layout_marginTop="35dp"
+            />
+
+    </TableRow>
+
+    <TableLayout>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Enter your password"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textColor="@color/grey"
+            />
+    </TableLayout>
+
+    <GridLayout
+        android:padding="25dp"
+        android:columnCount="3"
+        android:layout_margin="10dp"
+
+        >
+        <Button
+            android:text="1"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+
+        <Button
+            android:text="2"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+
+        <Button
+            android:text="3"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="4"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="5"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="6"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="7"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="8"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="9"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="."
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+        <Button
+            android:text="0"
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#000"
+            />
+
+        <ImageView
+            android:src="@drawable/backspace"
+            android:layout_width="75dp"
+            android:layout_height="55dp"
+
+            android:padding="7dp"
+            android:layout_margin="10dp"
+            />
+
+
+
+
+    </GridLayout>
+
+
+
+
+</TableLayout>
